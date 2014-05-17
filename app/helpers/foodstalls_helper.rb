@@ -1,0 +1,2 @@
+module FoodstallsHelper
+end
